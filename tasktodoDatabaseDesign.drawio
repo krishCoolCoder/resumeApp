@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T03:41:43.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="iSRsJqfMkB3HP3liNmxK" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T03:45:25.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="e5ObTfJLeUYb-Ef9sJ17" version="24.0.0" type="github">
   <diagram name="Page-1" id="Xy4lt4DB5cCuHjgBxs2x">
-    <mxGraphModel dx="1363" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,9 @@
               <mxPoint x="100" y="1173" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EOjThl3WFCyrKo_wU2wN-69" value="Needs to do :&amp;nbsp;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;ul style=&quot;font-size: 19px;&quot;&gt;&lt;li style=&quot;font-size: 19px;&quot;&gt;Implement the notification model&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 19px;&quot;&gt;Implement the task progress feature&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 19px;&quot;&gt;Implement the bulk upload feature on tasks.&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 19px;&quot;&gt;Implement the batching or grouping module for tasks.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="1323" width="510" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
