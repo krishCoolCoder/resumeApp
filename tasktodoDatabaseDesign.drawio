@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T03:45:25.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="e5ObTfJLeUYb-Ef9sJ17" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T03:47:23.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="FkPjGhV4RF5mjCnzJ_GF" version="24.0.0" type="github">
   <diagram name="Page-1" id="Xy4lt4DB5cCuHjgBxs2x">
-    <mxGraphModel dx="2190" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3553" dy="2746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,48 +51,6 @@
         </mxCell>
         <mxCell id="EOjThl3WFCyrKo_wU2wN-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;TaskToDo Model&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;taskTitle&lt;/li&gt;&lt;li&gt;taskDescription&lt;/li&gt;&lt;li&gt;taskStatus&lt;/li&gt;&lt;li&gt;taskProgress&lt;/li&gt;&lt;li&gt;teamRef&lt;br&gt;&lt;/li&gt;&lt;li&gt;organisationRef&lt;/li&gt;&lt;li&gt;taskUpdatedBy&lt;/li&gt;&lt;li&gt;taskUpdatedAt&lt;/li&gt;&lt;li&gt;taskCreatedBy&lt;/li&gt;&lt;li&gt;taskCreatedAt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-27;" vertex="1" parent="1">
           <mxGeometry x="30" y="230" width="140" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1280" y="100" width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-26" value="" style="swimlane;startSize=0;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-28">
-          <mxGeometry width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-27" value="&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;TaskToDo&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;li&gt;taskTitle&lt;/li&gt;&lt;li&gt;taskDescription&lt;/li&gt;&lt;li&gt;taskStatus&lt;/li&gt;&lt;li&gt;teamRef&lt;br&gt;&lt;/li&gt;&lt;li&gt;organisationRef&lt;/li&gt;&lt;li&gt;taskCreatedBy&lt;/li&gt;&lt;li&gt;taskCreatedAt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-28">
-          <mxGeometry y="25" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-31" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="100" width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1680" y="100" width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-34" value="" style="swimlane;startSize=0;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-33">
-          <mxGeometry width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-35" value="&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Request&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;li&gt;requestCode&lt;br&gt;&lt;/li&gt;&lt;li&gt;requestTitle&lt;br&gt;&lt;/li&gt;&lt;li&gt;requestDescription&lt;/li&gt;&lt;li&gt;requestType&lt;/li&gt;&lt;li&gt;requestStatus&lt;/li&gt;&lt;li&gt;requestCreatedBy&lt;/li&gt;&lt;li&gt;requestCreatedAt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-33">
-          <mxGeometry x="-5" y="25" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1890" y="100" width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-37" value="" style="swimlane;startSize=0;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-36">
-          <mxGeometry width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-38" value="&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;ToDo&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;li&gt;todoCode&lt;br&gt;&lt;/li&gt;&lt;li&gt;todoData&lt;/li&gt;&lt;li&gt;todoTeamRef&lt;/li&gt;&lt;li&gt;todoOrganisationRef&lt;/li&gt;&lt;li&gt;todoCreatedBy&lt;/li&gt;&lt;li&gt;todoCreatedAt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-36">
-          <mxGeometry x="-10" y="30" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2100" y="100" width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-40" value="" style="swimlane;startSize=0;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-39">
-          <mxGeometry width="180" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-41" value="&lt;div style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;User Management&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;li&gt;userId&lt;br&gt;&lt;/li&gt;&lt;li&gt;userName&lt;br&gt;&lt;/li&gt;&lt;li&gt;firstName&lt;br&gt;&lt;/li&gt;&lt;li&gt;lastName&lt;br&gt;&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EOjThl3WFCyrKo_wU2wN-39">
-          <mxGeometry y="45" width="150" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="EOjThl3WFCyrKo_wU2wN-32" value="&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Query&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;text-align: left; white-space: normal;&quot;&gt;&lt;li&gt;queryCode&lt;/li&gt;&lt;li&gt;queryTitle&lt;/li&gt;&lt;li&gt;queryDescription&lt;/li&gt;&lt;li&gt;queryStatus&lt;/li&gt;&lt;li&gt;queryType&lt;/li&gt;&lt;li&gt;queryCreatedBy&lt;/li&gt;&lt;li&gt;queryCreatedAt&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="125" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EOjThl3WFCyrKo_wU2wN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOjThl3WFCyrKo_wU2wN-47" target="EOjThl3WFCyrKo_wU2wN-53">
           <mxGeometry relative="1" as="geometry" />
